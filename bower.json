@@ -1,0 +1,26 @@
+{
+  "name": "granite-elements",
+  "authors": [
+    "Horacio Gonzalez <horacio.gonzalez@gmail.com>"
+  ],
+  "description": "A collection of Web Components made in the granite coasts of Brittany",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "element-collection",
+    "lostinbrittany"
+  ],
+  "main": "granite-elements.html",
+  "license": "MIT",
+  "homepage": "https://github.com/LostInBrittany/granite-elements",
+  "ignore": [],
+  "dependencies": {
+    "granite-alert": "granite-alert#^1.0.4",
+    "granite-c3": "granite-c3#^1.0.0",
+    "granite-clipboard": "granite-clipboard#^1.0.0",
+    "granite-file-saver": "granite-file-saver#^1.0.2",
+    "granite-file-reader": "granite-file-reader#^1.0.3",
+    "granite-spinner": "granite-spinner#^2.0.0"
+  }
+}
