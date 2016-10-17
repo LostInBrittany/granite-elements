@@ -1,9 +1,10 @@
 # Granite Elements
 
-| A collection of Web Components made in the granite coasts of Brittany
+> A collection of Web Components made in the granite coasts of Brittany
 
 ## Current Elements
 
+- [ace-widget](https://github.com/LostInBrittany/ace-widget)
 - [granite-alert](https://github.com/LostInBrittany/granite-alert/)
 - [granite-c3](https://github.com/LostInBrittany/granite-c3/)
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/)

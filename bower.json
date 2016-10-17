@@ -16,6 +16,7 @@
   "homepage": "https://github.com/LostInBrittany/granite-elements",
   "ignore": [],
   "dependencies": {
+    "ace-widget": "^1.2.3",
     "granite-alert": "granite-alert#^1.0.4",
     "granite-c3": "granite-c3#^1.0.0",
     "granite-clipboard": "granite-clipboard#^1.0.0",
