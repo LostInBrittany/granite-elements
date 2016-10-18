@@ -4,13 +4,14 @@
 
 ## Current Elements
 
-- [ace-widget](https://github.com/LostInBrittany/ace-widget)
-- [granite-alert](https://github.com/LostInBrittany/granite-alert/)
-- [granite-c3](https://github.com/LostInBrittany/granite-c3/)
-- [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/)
-- [granite-file-saver](https://github.com/LostInBrittany/granite-file-saver/)
-- [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/)
-- [granite-spinner](https://github.com/LostInBrittany/granite-spinner/)
+- [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor* 
+- [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
+- [granite-c3](https://github.com/LostInBrittany/granite-c3/) - A lightweight element wrapping-up *C3.js*, *D3.js*-based chart library
+- [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
+- [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/) - A lightweight element to read a file from the local filesystem
+- [granite-file-saver](https://github.com/LostInBrittany/granite-file-saver/) - A lightweight element to save content to a file on the local filesystem
+- [granite-spinner](https://github.com/LostInBrittany/granite-spinner/) - Pure CSS spinner Polymer web component
+- [polymer-bootstrap](https://github.com/LostInBrittany/polymer-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer `dom-module` to be used as shared style in full ShadowDOM mode
 
 
 ## Contributing
