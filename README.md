@@ -10,8 +10,8 @@
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
 - [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/) - A lightweight element to read a file from the local filesystem
 - [granite-file-saver](https://github.com/LostInBrittany/granite-file-saver/) - A lightweight element to save content to a file on the local filesystem
+- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode
 - [granite-spinner](https://github.com/LostInBrittany/granite-spinner/) - Pure CSS spinner Polymer web component
-- [polymer-bootstrap](https://github.com/LostInBrittany/polymer-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer `dom-module` to be used as shared style in full ShadowDOM mode
 
 
 ## Contributing

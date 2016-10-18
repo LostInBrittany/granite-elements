@@ -23,6 +23,6 @@
     "granite-file-saver": "LostInBrittany/granite-file-saver",
     "granite-file-reader": "LostInBrittany/granite-file-reader",
     "granite-spinner": "LostInBrittany/granite-spinner",
-    "polymer-bootstrap": "LostInBrittany/polymer-bootstrap"
+    "granite-bootstrap": "LostInBrittany/granite-bootstrap"
   }
 }
