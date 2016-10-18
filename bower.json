@@ -16,12 +16,12 @@
   "homepage": "https://github.com/LostInBrittany/granite-elements",
   "ignore": [],
   "dependencies": {
-    "ace-widget": "^1.2.3",
-    "granite-alert": "granite-alert#^1.0.4",
-    "granite-c3": "granite-c3#^1.0.0",
-    "granite-clipboard": "granite-clipboard#^1.0.0",
-    "granite-file-saver": "granite-file-saver#^1.0.2",
-    "granite-file-reader": "granite-file-reader#^1.0.3",
-    "granite-spinner": "granite-spinner#^2.0.0"
+    "ace-widget": "LostInBrittany/ace-widget",
+    "granite-alert": "LostInBrittany/granite-alert",
+    "granite-c3": "LostInBrittany/granite-c3",
+    "granite-clipboard": "LostInBrittany/granite-clipboard",
+    "granite-file-saver": "LostInBrittany/granite-file-saver",
+    "granite-file-reader": "LostInBrittany/granite-file-reader",
+    "granite-spinner": "LostInBrittany/granite-spinner"
   }
 }
