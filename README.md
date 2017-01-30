@@ -1,6 +1,6 @@
 # Granite Elements
 
-> A collection of Web Components made in the granite coasts of Brittany
+> A collection of Web Components made in the granitic coast of Brittany
 
 ## Current Elements
 
