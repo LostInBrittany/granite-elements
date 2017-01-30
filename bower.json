@@ -24,6 +24,7 @@
     "granite-countdown": "LostInBrittany/granite-countdown",
     "granite-file-saver": "LostInBrittany/granite-file-saver",
     "granite-file-reader": "LostInBrittany/granite-file-reader",
+    "granite-led": "LostInBrittany/granite-led",
     "granite-qrcode-generator": "LostInBrittany/granite-qrcode-generator",
     "granite-spinner": "LostInBrittany/granite-spinner"
   }
