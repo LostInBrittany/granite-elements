@@ -10,7 +10,8 @@
 - [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
 - [granite-c3](https://github.com/LostInBrittany/granite-c3/) - A lightweight element wrapping-up *C3.js*, *D3.js*-based chart library
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
-- [granite-countdown](https://github.com/LostInBrittany/granite-countdown/) - A simple countdown element
+- [granite-countdown](https://github.com/LostInBrittany/granite-countdown/) - A simple countdown element\
+- [granite-draw-sparkline](https://github.com/LostInBrittany/granite-draw-sparkline) - A webcomponent to hand draw a sparkline on a canvas and get its coordinates
 - [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/) - A lightweight element to read a file from the local filesystem
 - [granite-file-saver](https://github.com/LostInBrittany/granite-file-saver/) - A lightweight element to save content to a file on the local filesystem
 - [granite-ink](https://github.com/LostInBrittany/granite-ink/) - A webcomponent  to hand draw paths on a canvas and get the paths coordinates
