@@ -16,6 +16,7 @@
   "homepage": "https://github.com/LostInBrittany/granite-elements",
   "ignore": [],
   "dependencies": {
+    "polymer": "Polymer/polymer#^1.8.0",
     "ace-widget": "LostInBrittany/ace-widget",
     "granite-ajax-saver": "LostInBrittany/granite-ajax-saver",
     "granite-alert": "LostInBrittany/granite-alert",
@@ -29,6 +30,7 @@
     "granite-ink": "LostInBrittany/granite-ink",
     "granite-led": "LostInBrittany/granite-led",
     "granite-qrcode-generator": "LostInBrittany/granite-qrcode-generator",
+    "granite-qrcode-scanner": "LostInBrittany/granite-qrcode-scanner",
     "granite-spinner": "LostInBrittany/granite-spinner"
   }
 }
