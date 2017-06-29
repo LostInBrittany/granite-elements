@@ -7,6 +7,7 @@
 ### Polymer 1.x-2.x hybrid
 
 - [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
+- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
 - [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/) - A lightweight element to read a file from the local filesystem
 - [granite-qrcode-generator](https://github.com/LostInBrittany/granite-qrcode-generator) - An element to render QRCodes
@@ -16,7 +17,6 @@
 
 - [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor*
 - [granite-ajax-saver](https://github.com/LostInBrittany/granite-ajax-saver/) - A lightweight element to save the response from an AJAX call into a file on the local filesystem
-- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
 - [granite-c3](https://github.com/LostInBrittany/granite-c3/) - A lightweight element wrapping-up *C3.js*, *D3.js*-based chart library
 - [granite-countdown](https://github.com/LostInBrittany/granite-countdown/) - A simple countdown element\
 - [granite-draw-sparkline](https://github.com/LostInBrittany/granite-draw-sparkline) - A webcomponent to hand draw a sparkline on a canvas and get its coordinates
