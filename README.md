@@ -4,6 +4,10 @@
 
 ## Current Elements
 
+### Native 
+
+- [granite-dynamic-element](https://github.com/LostInBrittany/granite-dynamic-element) - A native web component to dynamically generate web components
+
 ### Polymer 1.x-2.x hybrid
 
 - [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
