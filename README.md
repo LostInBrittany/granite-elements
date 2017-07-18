@@ -10,6 +10,7 @@
 
 ### Polymer 1.x-2.x hybrid
 
+- [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor*
 - [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
 - [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
@@ -20,7 +21,6 @@
 
 ### Polymer 1.x (to be migrated)
 
-- [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor*
 - [granite-ajax-saver](https://github.com/LostInBrittany/granite-ajax-saver/) - A lightweight element to save the response from an AJAX call into a file on the local filesystem
 - [granite-c3](https://github.com/LostInBrittany/granite-c3/) - A lightweight element wrapping-up *C3.js*, *D3.js*-based chart library
 - [granite-countdown](https://github.com/LostInBrittany/granite-countdown/) - A simple countdown element\
