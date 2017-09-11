@@ -8,6 +8,11 @@
 
 - [granite-dynamic-element](https://github.com/LostInBrittany/granite-dynamic-element) - A native web component to dynamically generate web components
 
+### Polymer 2.x 
+
+- [granite-yaml](https://github.com/LostInBrittany/granite-dynamic-yaml) - A set of Custom Elements to deal with YAML files
+
+
 ### Polymer 1.x-2.x hybrid
 
 - [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor*
