@@ -31,6 +31,7 @@
     "granite-led": "LostInBrittany/granite-led",
     "granite-qrcode-generator": "LostInBrittany/granite-qrcode-generator",
     "granite-qrcode-scanner": "LostInBrittany/granite-qrcode-scanner",
-    "granite-spinner": "LostInBrittany/granite-spinner"
+    "granite-spinner": "LostInBrittany/granite-spinner",
+    "granite-yaml": "LostInBrittany/granite-yaml"
   }
 }
