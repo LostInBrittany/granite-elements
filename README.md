@@ -11,6 +11,7 @@
 ### Polymer 2.x 
 
 - [granite-yaml](https://github.com/LostInBrittany/granite-dynamic-yaml) - A set of Custom Elements to deal with YAML files
+- [granite-js-dependencies-grabber](https://github.com/LostInBrittany/granite-js-dependencies-grabber) - A custom element to ensure that non-componentalized, mon-modularized external JavaScript libraries are loader once and only once, and in the right order
 
 
 ### Polymer 1.x-2.x hybrid

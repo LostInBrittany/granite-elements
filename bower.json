@@ -28,6 +28,7 @@
     "granite-file-reader": "LostInBrittany/granite-file-reader",
     "granite-file-saver": "LostInBrittany/granite-file-saver",
     "granite-ink": "LostInBrittany/granite-ink",
+    "granite-js-dependencies-grabber": "LostInBrittany/granite-js-dependencies-grabber",
     "granite-led": "LostInBrittany/granite-led",
     "granite-qrcode-generator": "LostInBrittany/granite-qrcode-generator",
     "granite-qrcode-scanner": "LostInBrittany/granite-qrcode-scanner",
