@@ -39,8 +39,9 @@
 
 ## Style modules
 
-- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
-- [granite-font-awesome](https://github.com/LostInBrittany/granite-font-awesome/) - Wrapping of *Font Awesome CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
+- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer elements to be used as shared style in full ShadowDOM mode  
+- [granite-font-awesome](https://github.com/LostInBrittany/granite-font-awesome/) - Wrapping of *Font Awesome CSS* as Polymer elements to be used as shared style in full ShadowDOM mode  
+- [granite-prismjs](https://github.com/LostInBrittany/granite-prismjs/) - Wrapping of *Prism.js CSS themes* as Polymer elements to be used as shared style in full ShadowDOM mode  
 
 
 ## Contributing
