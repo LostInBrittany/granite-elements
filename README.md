@@ -21,7 +21,6 @@
 - [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor*
 - [granite-ajax-saver](https://github.com/LostInBrittany/granite-ajax-saver/) - A lightweight element to save the response from an AJAX call into a file on the local filesystem
 - [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
-- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
 - [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/) - A lightweight element to read a file from the local filesystem
 - [granite-file-saver](https://github.com/LostInBrittany/granite-file-saver/) - A lightweight element to save content to a file on the local filesystem
@@ -36,6 +35,12 @@
 - [granite-draw-sparkline](https://github.com/LostInBrittany/granite-draw-sparkline) - A webcomponent to hand draw a sparkline on a canvas and get its coordinates
 - [granite-ink](https://github.com/LostInBrittany/granite-ink/) - A webcomponent  to hand draw paths on a canvas and get the paths coordinates
 - [granite-led](https://github.com/LostInBrittany/granite-led/) - A webcomponent to display a LED-like ON/OFF status indicator
+
+
+## Style modules
+
+- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
+- [granite-font-awesome](https://github.com/LostInBrittany/granite-font-awesome/) - Wrapping of *Font Awesome CSS* as Polymer element` to be used as shared style in full ShadowDOM mode  
 
 
 ## Contributing
