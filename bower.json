@@ -17,6 +17,7 @@
   "ignore": [],
   "dependencies": {
     "ace-widget": "LostInBrittany/ace-widget",
+    "granite-alarmlight": "LostInBrittany/granite-alarmlight",
     "granite-ajax-saver": "LostInBrittany/granite-ajax-saver",
     "granite-alert": "LostInBrittany/granite-alert",
     "granite-bootstrap": "LostInBrittany/granite-bootstrap",
