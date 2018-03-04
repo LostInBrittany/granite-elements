@@ -37,6 +37,12 @@
     "granite-qrcode-scanner": "LostInBrittany/granite-qrcode-scanner",
     "granite-spinner": "LostInBrittany/granite-spinner",
     "granite-validator-mixin": "LostInBrittany/granite-validator-mixin",
-    "granite-yaml": "LostInBrittany/granite-yaml"
+    "granite-yaml": "LostInBrittany/granite-yaml",
+    "granite-qrcode-decoder": "LostInBrittany/granite-qrcode-decoder#^1.0.2"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0",
+    "webcomponentsjs": "^v1.0.19",
+    "iron-meta": "^2.0.2"
   }
 }
