@@ -11,6 +11,7 @@
 ### Polymer 2.x 
 
 - [granite-alarmlight](https://github.com/LostInBrittany/granite-alarmlight) - A green-amber-red status indicator custom element
+- [granite-app-media-periodic-image-capture](https://github.com/LostInBrittany/granite-app-media-periodic-image-capture) - An element extending app-media-image-capture allowing a periodic image capture (i.e. x images per second)
 - [granite-c3](https://github.com/LostInBrittany/granite-c3/) - A lightweight element wrapping-up *C3.js*, *D3.js*-based chart library
 - [granite-js-dependencies-grabber](https://github.com/LostInBrittany/granite-js-dependencies-grabber) - A custom element to ensure that non-componentalized, mon-modularized external JavaScript libraries are loader once and only once, and in the right order
 - [granite-qrcode-decoder](https://github.com/LostInBrittany/granite-qrcode-decoder) - An element to decode a QR Code from an image
