@@ -36,6 +36,7 @@
     "granite-qrcode-generator": "LostInBrittany/granite-qrcode-generator",
     "granite-qrcode-scanner": "LostInBrittany/granite-qrcode-scanner",
     "granite-spinner": "LostInBrittany/granite-spinner",
+    "granite-timeline": "LostInBrittany/granite-timeline",
     "granite-validator-mixin": "LostInBrittany/granite-validator-mixin",
     "granite-yaml": "LostInBrittany/granite-yaml",
     "granite-qrcode-decoder": "LostInBrittany/granite-qrcode-decoder#^1.0.2",

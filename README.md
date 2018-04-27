@@ -15,6 +15,7 @@
 - [granite-c3](https://github.com/LostInBrittany/granite-c3/) - A lightweight element wrapping-up *C3.js*, *D3.js*-based chart library
 - [granite-js-dependencies-grabber](https://github.com/LostInBrittany/granite-js-dependencies-grabber) - A custom element to ensure that non-componentalized, mon-modularized external JavaScript libraries are loader once and only once, and in the right order
 - [granite-qrcode-decoder](https://github.com/LostInBrittany/granite-qrcode-decoder) - An element to decode a QR Code from an image
+- [granite-timeline](https://github.com/LostInBrittany/granite-timeline) - A timeline rendering element using d3 and d3-timelines plugin
 - [granite-validator-mixin](https://github.com/LostInBrittany/granite-validator-mixin) - A mixin to implement a custom input or form validator
 - [granite-yaml](https://github.com/LostInBrittany/granite-dynamic-yaml) - A set of Custom Elements to deal with YAML files
 
