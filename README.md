@@ -18,6 +18,11 @@
 - [granite-timeline](https://github.com/LostInBrittany/granite-timeline) - A timeline rendering element using d3 and d3-timelines plugin
 
 
+### Polymer 3.x style modules
+
+- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer elements to be used as shared style in full ShadowDOM mode 
+
+
 ### Polymer 2.x 
 
 - [granite-qrcode-decoder](https://github.com/LostInBrittany/granite-qrcode-decoder) - An element to decode a QR Code from an image
@@ -37,6 +42,13 @@
 - [granite-qrcode-scanner](https://github.com/LostInBrittany/granite-qrcode-scanner) - An element to scan QRCodes
 - [granite-spinner](https://github.com/LostInBrittany/granite-spinner/) - Pure CSS spinner Polymer web component
 
+
+### Polymer 1.x-2.x hybrid style modules
+
+- [granite-font-awesome](https://github.com/LostInBrittany/granite-font-awesome/) - Wrapping of *Font Awesome CSS* as Polymer elements to be used as shared style in full ShadowDOM mode  
+- [granite-prismjs](https://github.com/LostInBrittany/granite-prismjs/) - Wrapping of *Prism.js CSS themes* as Polymer elements to be used as shared style in full ShadowDOM mode  
+
+
 ### Polymer 1.x (to be migrated)
 
 
@@ -45,12 +57,6 @@
 - [granite-ink](https://github.com/LostInBrittany/granite-ink/) - A webcomponent  to hand draw paths on a canvas and get the paths coordinates
 - [granite-led](https://github.com/LostInBrittany/granite-led/) - A webcomponent to display a LED-like ON/OFF status indicator
 
-
-## Style modules
-
-- [granite-bootstrap](https://github.com/LostInBrittany/granite-bootstrap/) - Wrapping of *Bootstrap CSS* as Polymer elements to be used as shared style in full ShadowDOM mode  
-- [granite-font-awesome](https://github.com/LostInBrittany/granite-font-awesome/) - Wrapping of *Font Awesome CSS* as Polymer elements to be used as shared style in full ShadowDOM mode  
-- [granite-prismjs](https://github.com/LostInBrittany/granite-prismjs/) - Wrapping of *Prism.js CSS themes* as Polymer elements to be used as shared style in full ShadowDOM mode  
 
 
 ## Contributing
