@@ -11,6 +11,7 @@
 
 ### Polymer 3.x
 
+- [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor*
 - [granite-alarmlight](https://github.com/LostInBrittany/granite-alarmlight) - A green-amber-red status indicator custom element
 - [granite-app-media-periodic-image-capture](https://github.com/LostInBrittany/granite-app-media-periodic-image-capture) - An element extending app-media-image-capture allowing a periodic image capture (i.e. x images per second)
 - [granite-c3](https://github.com/LostInBrittany/granite-c3/) - A lightweight element wrapping-up *C3.js*, *D3.js*-based chart library
@@ -32,7 +33,6 @@
 
 ### Polymer 1.x-2.x hybrid
 
-- [ace-widget](https://github.com/LostInBrittany/ace-widget) - Polymer wrap around *Ace Editor*
 - [granite-ajax-saver](https://github.com/LostInBrittany/granite-ajax-saver/) - A lightweight element to save the response from an AJAX call into a file on the local filesystem
 - [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
