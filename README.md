@@ -8,6 +8,9 @@
 
 - [granite-dynamic-element](https://github.com/LostInBrittany/granite-dynamic-element) - A native web component to dynamically generate web components
 
+### Lit-Element
+
+- [granite-inspector](https://github.com/LostInBrittany/granite-inspector) - A lit-element based version of the object inspector of Chrome DevTools
 
 ### Polymer 3.x
 
