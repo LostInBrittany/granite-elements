@@ -41,8 +41,8 @@
     "granite-timeline": "LostInBrittany/granite-timeline",
     "granite-validator-mixin": "LostInBrittany/granite-validator-mixin",
     "granite-yaml": "LostInBrittany/granite-yaml",
-    "granite-qrcode-decoder": "LostInBrittany/granite-qrcode-decoder#^1.0.2",
-    "granite-app-media-periodic-image-capture": "LostInBrittany/granite-app-media-periodic-image-capture#^1.0.0"
+    "granite-qrcode-decoder": "LostInBrittany/granite-qrcode-decode",
+    "granite-app-media-periodic-image-capture": "LostInBrittany/granite-app-media-periodic-image-captur"
   },
   "resolutions": {
     "polymer": "^2.0.0",

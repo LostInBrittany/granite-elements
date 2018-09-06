@@ -11,6 +11,7 @@
 ### Lit-Element
 
 - [granite-inspector](https://github.com/LostInBrittany/granite-inspector) - A lit-element based version of the object inspector of Chrome DevTools
+- [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
 
 ### Polymer 3.x
 
@@ -21,6 +22,7 @@
 - [granite-external-dependencies](https://github.com/LostInBrittany/granite-external-dependencies) - A set of elements and mixins to grab external dependencies (CSS and JS...)
 - [granite-js-dependencies-grabber](https://github.com/LostInBrittany/granite-js-dependencies-grabber) - A custom element to ensure that non-componentalized, mon-modularized external JavaScript libraries are loader once and only once, and in the right order
 - [granite-timeline](https://github.com/LostInBrittany/granite-timeline) - A timeline rendering element using d3 and d3-timelines plugin
+- [granite-yaml](https://github.com/LostInBrittany/granite-dynamic-yaml) - A set of Custom Elements to deal with YAML files
 
 
 ### Polymer 3.x style modules
@@ -32,13 +34,11 @@
 
 - [granite-qrcode-decoder](https://github.com/LostInBrittany/granite-qrcode-decoder) - An element to decode a QR Code from an image
 - [granite-validator-mixin](https://github.com/LostInBrittany/granite-validator-mixin) - A mixin to implement a custom input or form validator
-- [granite-yaml](https://github.com/LostInBrittany/granite-dynamic-yaml) - A set of Custom Elements to deal with YAML files
 
 
 ### Polymer 1.x-2.x hybrid
 
 - [granite-ajax-saver](https://github.com/LostInBrittany/granite-ajax-saver/) - A lightweight element to save the response from an AJAX call into a file on the local filesystem
-- [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
 - [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
 - [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/) - A lightweight element to read a file from the local filesystem
 - [granite-file-saver](https://github.com/LostInBrittany/granite-file-saver/) - A lightweight element to save content to a file on the local filesystem
