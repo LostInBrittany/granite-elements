@@ -10,8 +10,11 @@
 
 ### Lit-Element
 
-- [granite-inspector](https://github.com/LostInBrittany/granite-inspector) - A lit-element based version of the object inspector of Chrome DevTools
 - [granite-alert](https://github.com/LostInBrittany/granite-alert/) - Bootstrap-like alerts
+- [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
+- [granite-inspector](https://github.com/LostInBrittany/granite-inspector) - A lit-element based version of the object inspector of Chrome DevTools
+- [granite-spinner](https://github.com/LostInBrittany/granite-spinner/) - Pure CSS spinner web component
+
 
 ### Polymer 3.x
 
@@ -39,12 +42,10 @@
 ### Polymer 1.x-2.x hybrid
 
 - [granite-ajax-saver](https://github.com/LostInBrittany/granite-ajax-saver/) - A lightweight element to save the response from an AJAX call into a file on the local filesystem
-- [granite-clipboard](https://github.com/LostInBrittany/granite-clipboard/) - A lightweight element wrapping-up *clipboard.js*
 - [granite-file-reader](https://github.com/LostInBrittany/granite-file-reader/) - A lightweight element to read a file from the local filesystem
 - [granite-file-saver](https://github.com/LostInBrittany/granite-file-saver/) - A lightweight element to save content to a file on the local filesystem
 - [granite-qrcode-generator](https://github.com/LostInBrittany/granite-qrcode-generator) - An element to render QRCodes
 - [granite-qrcode-scanner](https://github.com/LostInBrittany/granite-qrcode-scanner) - An element to scan QRCodes
-- [granite-spinner](https://github.com/LostInBrittany/granite-spinner/) - Pure CSS spinner Polymer web component
 
 
 ### Polymer 1.x-2.x hybrid style modules
